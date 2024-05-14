@@ -1,0 +1,9 @@
+com/gallego/vehiculos/demo/controller/PropietarioControllerTest.class
+com/gallego/vehiculos/demo/services/PropietarioServiceTest.class
+com/gallego/vehiculos/demo/repository/CarroRepositoryTest.class
+com/gallego/vehiculos/demo/VehiculosApplicationTests.class
+com/gallego/vehiculos/demo/utility/CarroUtilityTest.class
+com/gallego/vehiculos/demo/utility/PropietarioUtilityTest.class
+com/gallego/vehiculos/demo/repository/PropietarioRepositoryTest.class
+com/gallego/vehiculos/demo/services/CarroServiceTest.class
+com/gallego/vehiculos/demo/controller/CarroControllerTest.class
